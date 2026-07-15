@@ -1,5 +1,5 @@
 
-          class Solution {
+class Solution {
 public:
     int maxProduct(vector<int>& nums) {
         int maxi = INT_MIN;
