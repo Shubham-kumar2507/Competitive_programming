@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0152-maximum-product-subarray) |
 | [2719-count-of-integers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2719-count-of-integers) |
+| [2801-count-stepping-numbers-in-range](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2801-count-stepping-numbers-in-range) |
 ## Sorting
 |  |
 | ------- |
@@ -32,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2719-count-of-integers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2719-count-of-integers) |
+| [2801-count-stepping-numbers-in-range](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2801-count-stepping-numbers-in-range) |
 <!---LeetCode Topics End-->
