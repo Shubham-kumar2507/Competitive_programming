@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0152-maximum-product-subarray) |
 | [0274-h-index](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0274-h-index) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2719-count-of-integers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2719-count-of-integers) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3312-sorted-gcd-pair-queries) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
