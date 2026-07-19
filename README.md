@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0038-count-and-say) |
 | [0443-string-compression](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0443-string-compression) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2719-count-of-integers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2719-count-of-integers) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Hash Table
 |  |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
