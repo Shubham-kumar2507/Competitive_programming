@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0152-maximum-product-subarray) |
 | [0274-h-index](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0274-h-index) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
