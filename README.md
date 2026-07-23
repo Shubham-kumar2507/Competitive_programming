@@ -139,16 +139,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0101-symmetric-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0101-symmetric-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0101-symmetric-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Graph Theory
 |  |
@@ -176,4 +179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
