@@ -138,11 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0099-recover-binary-search-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0099-recover-binary-search-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -166,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0099-recover-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
