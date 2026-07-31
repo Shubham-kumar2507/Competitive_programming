@@ -34,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0274-h-index) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3312-sorted-gcd-pair-queries) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2719-count-of-integers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2719-count-of-integers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2801-count-stepping-numbers-in-range) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
 |  |
 | ------- |
