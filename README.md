@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0274-h-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0877-stone-game) |
 | [2719-count-of-integers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2719-count-of-integers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2801-count-stepping-numbers-in-range) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2827-number-of-beautiful-integers-in-the-range) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0089-gray-code) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2719-count-of-integers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2719-count-of-integers) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2827-number-of-beautiful-integers-in-the-range) |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0567-permutation-in-string) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
