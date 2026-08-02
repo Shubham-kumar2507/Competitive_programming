@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0089-gray-code) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2719-count-of-integers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2719-count-of-integers) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0089-gray-code) |
 | [0212-word-search-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0212-word-search-ii) |
 ## Matrix
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0089-gray-code) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
