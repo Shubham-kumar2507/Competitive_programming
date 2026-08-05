@@ -192,16 +192,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0199-binary-tree-right-side-view) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2467-most-profitable-path-in-a-tree) |
+| [3310-remove-methods-from-project](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0199-binary-tree-right-side-view) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2467-most-profitable-path-in-a-tree) |
+| [3310-remove-methods-from-project](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2467-most-profitable-path-in-a-tree) |
+| [3310-remove-methods-from-project](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
 | ------- |
