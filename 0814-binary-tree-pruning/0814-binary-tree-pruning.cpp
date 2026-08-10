@@ -11,23 +11,25 @@
  */
 class Solution {
 public:
-    bool isOne(TreeNode* root){
-        if(root==NULL) return false;
-        if(root->val==1) return true;
+    // bool isOne(TreeNode* root){
+    //     if(root==NULL) return false;
+    //     if(root->val==1) return true;
 
-        return isOne(root->left) || isOne(root->right);
-    }
+    //     return isOne(root->left) || isOne(root->right);
+    // }
     TreeNode* pruneTree(TreeNode* root) {
         if(root ==NULL) return NULL;
 
-        if(!isOne(root->left)) root-> left =NULL;
+        // if(!isOne(root->left)) root-> left =NULL;
 
-        if(!isOne(root->right)) root->right=NULL;
+        // if(!isOne(root->right)) root->right=NULL;
 
-        pruneTree(root->left);
-        pruneTree(root->right);
+        // pruneTree(root->left);
+        // pruneTree(root->right);
+        root->left = pruneTree(root->left);
+        root->right= pruneTree(root->right);
 
-        if(root->left==NULL && root->right==NULL && root->val==0) return NULL;
+         if(root->left==NULL && root->right==NULL && root->val==0) return NULL;
 
         return root;
     }
