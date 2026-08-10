@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0877-stone-game) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1110-delete-nodes-and-return-forest) |
 | [1140-stone-game-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0567-permutation-in-string) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1110-delete-nodes-and-return-forest) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3312-sorted-gcd-pair-queries) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0199-binary-tree-right-side-view) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1110-delete-nodes-and-return-forest) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0199-binary-tree-right-side-view) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1110-delete-nodes-and-return-forest) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2467-most-profitable-path-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0199-binary-tree-right-side-view) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1110-delete-nodes-and-return-forest) |
 ## Sliding Window
 |  |
 | ------- |
