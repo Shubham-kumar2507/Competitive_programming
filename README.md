@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0567-permutation-in-string) |
@@ -309,4 +310,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1140-stone-game-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
