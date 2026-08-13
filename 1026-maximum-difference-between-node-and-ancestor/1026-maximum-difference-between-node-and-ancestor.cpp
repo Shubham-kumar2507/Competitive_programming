@@ -11,28 +11,38 @@
  */
 class Solution {
 public:
-    int maxi=-1;
-    void findMaxi(TreeNode* root, TreeNode* child){
-        if(root == NULL) return;
-        if(child == NULL) return;
+    //int maxi=-1;
+    // void findMaxi(TreeNode* root, TreeNode* child){
+    //     if(root == NULL) return;
+    //     if(child == NULL) return;
         
-        maxi=max(maxi,abs(root->val - child->val));
-        findMaxi(root,child->left);
-        findMaxi(root,child->right);
+    //     maxi=max(maxi,abs(root->val - child->val));
+    //     findMaxi(root,child->left);
+    //     findMaxi(root,child->right);
+    // }
+
+    // void finddif(TreeNode* root){
+    //     if(root==NULL) return;
+    //     findMaxi(root, root->left);
+    //     findMaxi(root, root->right);
+    //     finddif(root->left);
+    //     finddif(root->right);
+    // }
+
+    int findma(TreeNode* root, int mini, int maxi){
+        if(root ==NULL){
+            return abs(mini - maxi);
+        }
+        mini=min(mini,root->val);
+        maxi=max(maxi,root->val);
+        int l=findma(root->left, mini, maxi);
+        int r=findma(root->right, mini,maxi);
+        return max(l,r);
     }
-
-    void finddif(TreeNode* root){
-        if(root==NULL) return;
-        findMaxi(root, root->left);
-        findMaxi(root, root->right);
-        finddif(root->left);
-        finddif(root->right);
-    }
-
-
 
     int maxAncestorDiff(TreeNode* root) {
-        finddif(root);
-        return maxi;
+        //finddif(root);
+        //return maxi;
+        return findma(root,root->val,root->val);
     }
 };
