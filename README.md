@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0652-find-duplicate-subtrees) |
 | [0814-binary-tree-pruning](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0814-binary-tree-pruning) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0623-add-one-row-to-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0547-number-of-provinces) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2467-most-profitable-path-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
@@ -429,5 +432,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0547-number-of-provinces) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
