@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -454,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0207-course-schedule) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
