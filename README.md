@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1110-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1110-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2467-most-profitable-path-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1110-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sliding Window
 |  |
 | ------- |
