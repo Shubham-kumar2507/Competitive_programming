@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0214-shortest-palindrome) |
 | [0306-additive-number](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0443-string-compression](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0940-distinct-subsequences-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0222-count-complete-tree-nodes) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0652-find-duplicate-subtrees) |
 | [0814-binary-tree-pruning](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0814-binary-tree-pruning) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0222-count-complete-tree-nodes) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0652-find-duplicate-subtrees) |
 | [0814-binary-tree-pruning](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0814-binary-tree-pruning) |
