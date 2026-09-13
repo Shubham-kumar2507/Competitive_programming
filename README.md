@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0877-stone-game) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1110-delete-nodes-and-return-forest) |
 | [1140-stone-game-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1140-stone-game-ii) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0835-image-overlap](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
