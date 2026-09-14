@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1406-stone-game-iii) |
@@ -488,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0278-first-bad-version) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
