@@ -3,18 +3,20 @@ public:
     string countAndSay(int n) {
         if(n==1) return "1";
 
-        string say=countAndSay(n-1);
-        string result="";
-        for(int i=0;i<say.length();i++){
+        string say = countAndSay(n-1);
+        string res="";
+        int i=0;
+        while(i<say.length()){
             char ch=say[i];
-            int count =1;
+            int cnt=1;
             while(i<say.length()-1 && say[i]==say[i+1]){
-                count++;
+               cnt++;
                 i++;
+                
             }
-            result +=to_string(count)+string(1,ch);
+            res+=to_string(cnt)+string(1,ch);
+            i++;
         }
-        return result;
-
+        return res;
     }
 };
