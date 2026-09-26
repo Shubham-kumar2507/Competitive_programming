@@ -1,18 +1,14 @@
 class Solution {
 public:
-    bool checkIfPangram(string s) {
-        // set<char> ch(s.begin(), s.end());
-        // int n=ch.size();
-        // if(n<26) return false;
-        // return true;
+    bool checkIfPangram(string sentence) {
         vector<int> arr(26,0);
-
-        for(char &c:s){
-            int n=c-'a';
-            arr[n]++;
+        for(char &c:sentence){
+            arr[c-'a']++;
         }
-        for( int &cnt: arr){
-            if(cnt==0)return false;
+        for(int i=0;i<26;i++){
+            if(arr[i]==0){
+                return false;
+            }
         }
         return true;
     }
