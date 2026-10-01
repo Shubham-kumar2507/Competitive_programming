@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0115-distinct-subsequences) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
