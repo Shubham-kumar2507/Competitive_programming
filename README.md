@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
