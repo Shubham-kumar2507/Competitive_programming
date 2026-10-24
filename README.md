@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2409-count-days-spent-together) |
 | [2719-count-of-integers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2719-count-of-integers) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2719-count-of-integers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2719-count-of-integers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2801-count-stepping-numbers-in-range) |
