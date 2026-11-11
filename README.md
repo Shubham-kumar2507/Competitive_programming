@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0628-maximum-product-of-three-numbers) |
+| [0767-reorganize-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0767-reorganize-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0274-h-index) |
+| [0767-reorganize-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0767-reorganize-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2029-stone-game-ix](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0767-reorganize-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1882-process-tasks-using-servers) |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0652-find-duplicate-subtrees) |
+| [0767-reorganize-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0767-reorganize-string) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1110-delete-nodes-and-return-forest) |
 | [1386-cinema-seat-allocation](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -374,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
