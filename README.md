@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3110-score-of-a-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3110-score-of-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3498-reverse-degree-of-a-string) |
