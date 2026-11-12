@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0079-word-search) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0152-maximum-product-subarray) |
 | [0212-word-search-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0212-word-search-ii) |
 | [0274-h-index](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0274-h-index) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0652-find-duplicate-subtrees) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0101-symmetric-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0101-symmetric-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -624,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3841-palindromic-path-queries-in-a-tree) |
