@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1140-stone-game-ii) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1110-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1110-delete-nodes-and-return-forest) |
 | [1254-number-of-closed-islands](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1254-number-of-closed-islands) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2467-most-profitable-path-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3310-remove-methods-from-project) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1110-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sliding Window
@@ -695,4 +699,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
