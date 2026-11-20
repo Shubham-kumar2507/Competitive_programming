@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3312-sorted-gcd-pair-queries) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2719-count-of-integers](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2719-count-of-integers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2801-count-stepping-numbers-in-range) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
