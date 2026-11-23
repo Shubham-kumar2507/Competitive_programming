@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0212-word-search-ii) |
 | [0274-h-index](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0274-h-index) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0940-distinct-subsequences-ii) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0662-maximum-width-of-binary-tree) |
@@ -730,4 +733,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Shubham-kumar2507/Competitive_programming/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
